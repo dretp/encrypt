@@ -1,0 +1,7 @@
+C:\Users\drepr\source\repos\encrypt\encrypt\bin\Debug\encrypt.exe.config
+C:\Users\drepr\source\repos\encrypt\encrypt\bin\Debug\encrypt.exe
+C:\Users\drepr\source\repos\encrypt\encrypt\bin\Debug\encrypt.pdb
+C:\Users\drepr\source\repos\encrypt\encrypt\obj\Debug\encrypt.csprojResolveAssemblyReference.cache
+C:\Users\drepr\source\repos\encrypt\encrypt\obj\Debug\encrypt.csproj.CoreCompileInputs.cache
+C:\Users\drepr\source\repos\encrypt\encrypt\obj\Debug\encrypt.exe
+C:\Users\drepr\source\repos\encrypt\encrypt\obj\Debug\encrypt.pdb
