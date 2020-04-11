@@ -13,7 +13,7 @@ namespace encrypt
         {
             public byte[] encode(string text, byte[] key, byte[] IV)
             {
-                // Check Input
+                // Check user input
                 if (text == null || text.Length <= 0)
                 {
                     throw new ArgumentException("Text");
